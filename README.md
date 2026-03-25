@@ -73,9 +73,3 @@
 <a href="https://github.com/Vitoria-Gabrielly-DEV" title="Perfil da Vitória Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Gabrielly-DEV&theme=dracula&show_icons=true" />
 </a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Vitoria-Gabrielly-DEV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vit%C3%B3ria-gabrielly-gomes-da-silva/)](https://www.linkedin.com/in/vit%C3%B3ria-gabrielly-gomes-da-silva/)
-[![Gmail Badge](https://img.shields.io/badge/-vitoriagabriellygsilva@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitoriagabriellygsilva@gmail.com)](mailto:vitoriagabriellygsilva@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Vitoria-Gabrielly-DEV?label=follow&style=social)](https://github.com/Vitoria-Gabrielly-DEV)
